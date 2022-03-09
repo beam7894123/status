@@ -9,7 +9,13 @@ sites:
   - name: Thai Translate site
     url: https://thaitranslateby.bezathecat.com/
   - name: Home Server
-    url: http://bezathecat.duckdns.org/
+    url: https://bezathecat.duckdns.org/
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 307
+      - 308
 
 
 status-website:
