@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1013,
-    "timeDay": 1013,
-    "timeWeek": 1013,
-    "timeMonth": 1013,
-    "timeYear": 1013,
+    "time": 1006,
+    "timeDay": 1006,
+    "timeWeek": 1006,
+    "timeMonth": 1006,
+    "timeYear": 1006,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 921,
-    "timeDay": 921,
-    "timeWeek": 921,
-    "timeMonth": 921,
-    "timeYear": 921,
+    "time": 953,
+    "timeDay": 953,
+    "timeWeek": 953,
+    "timeMonth": 953,
+    "timeYear": 953,
     "dailyMinutesDown": {}
   },
   {
     "name": "Home Server",
-    "url": "http://bezathecat.duckdns.org/",
+    "url": "https://bezathecat.duckdns.org/",
     "icon": "https://favicons.githubusercontent.com/bezathecat.duckdns.org",
     "slug": "home-server",
     "status": "down",
-    "uptime": "9.27%",
-    "uptimeDay": "9.27%",
-    "uptimeWeek": "9.27%",
-    "uptimeMonth": "9.27%",
-    "uptimeYear": "9.27%",
+    "uptime": "2.92%",
+    "uptimeDay": "2.92%",
+    "uptimeWeek": "2.92%",
+    "uptimeMonth": "2.92%",
+    "uptimeYear": "2.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-03-09": 3
+      "2022-03-09": 9
     }
   }
 ]
