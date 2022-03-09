@@ -9,7 +9,7 @@ sites:
   - name: Thai Translate site
     url: https://thaitranslateby.bezathecat.com/
   - name: Home Server
-    url: https://bezathecat.duckdns.org/
+    url: http://bezathecat.duckdns.org/
 
 
 status-website:
