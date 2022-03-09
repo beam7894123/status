@@ -10,6 +10,7 @@ sites:
     url: https://thaitranslateby.bezathecat.com/
   - name: Home Server
     url: https://bezathecat.duckdns.org/
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 301
