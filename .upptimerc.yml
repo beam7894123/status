@@ -8,15 +8,14 @@ sites:
     url: https://bezathecat.com/
   - name: Thai Translate site
     url: https://thaitranslateby.bezathecat.com/
- # - name: Home Server
-   # url: https://bezathecat.duckdns.org/
-   # maxResponseTime: 5000
-   # expectedStatusCodes:
-     # - 200
-     # - 301
-     # - 302
-     # - 307
-     # - 308
+  - name: Home Server
+    url: $MAOW_VERY_SECRET_SITE_1
+    maxResponseTime: 5000
+  - name: Archive Server (Hydrus network api)
+    url: $MAOW_VERY_SECRET_SITE_2
+    maxResponseTime: 5000
+    port: 45869
+
 
 
 status-website:
