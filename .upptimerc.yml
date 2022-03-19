@@ -6,16 +6,15 @@ repo: web_status # The name of this repository
 sites:
   - name: Main
     url: https://bezathecat.com/
+    
   - name: Thai Translate site
     url: https://thaitranslateby.bezathecat.com/
-  - name: Home Server
-    url: $MAOW_VERY_SECRET_SITE_1
-    maxResponseTime: 5000
+    
   - name: Archive Server (Hydrus network api)
-    url: $MAOW_VERY_SECRET_SITE_2
-    method: POST
-    maxResponseTime: 5000
+    url: $MAOW_VERY_SECRET_SITE_1
+    check: "tcp-ping"
     port: 47652
+    maxResponseTime: 5000
 
 
 
