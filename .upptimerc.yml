@@ -13,6 +13,7 @@ sites:
     maxResponseTime: 5000
   - name: Archive Server (Hydrus network api)
     url: $MAOW_VERY_SECRET_SITE_2
+    method: POST
     maxResponseTime: 5000
     port: 47652
 
