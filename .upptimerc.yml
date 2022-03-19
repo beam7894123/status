@@ -12,9 +12,9 @@ sites:
     
   - name: Archive Server (Hydrus network api)
     url: $MAOW_VERY_SECRET_SITE_1
-    check: "tcp-ping"
-    port: 47652
-    maxResponseTime: 5000
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+      - 200
 
 
 
