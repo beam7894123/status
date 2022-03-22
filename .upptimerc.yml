@@ -33,11 +33,9 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
-  #CSS 
-  css: :root
-        {
-          --body-background-color: #000;
-        }
+  #CSS go here!
+  css: ":root{--body-background-color:#000}"
+  
 i18n:
   footer: This page is [open source]($REPO), 🔌 Powered by [Upptime](https://upptime.js.org), Redesign with 💙 by [BezaTheCat](https://bezathecat.com/) ᗜ ̫ ᗜ
 
