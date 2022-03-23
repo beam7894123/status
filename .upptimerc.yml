@@ -29,12 +29,12 @@ status-website:
   introMessage: This status page monitors my web server and maybe more!.
   navbar:
     - title: Status
-      href: /
+      href: /web_status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
   #CSS go here!
-  css: ":root{--body-background-color:#000}"
+  css: ":root{--body-background-color:#000;--body-text-color:#00e7ff --card-background-color: #000 --card-border-color: #00f3ff --nav-background-color: #000 --nav-border-bottom-color #00f3ff --nav-current-border-bottom-color: #00f3ff --up-border-left-color: #20ff00 --degraded-border-left-color: #ffef00 --down-border-left-color: #f00 --change-background-color: #000 --degraded-border-left-color: #000}"
   
 i18n:
   footer: This page is [open source]($REPO), 🔌 Powered by [Upptime](https://upptime.js.org), Redesign with 💙 by [BezaTheCat](https://bezathecat.com/) ᗜ ̫ ᗜ
