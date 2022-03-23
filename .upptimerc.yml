@@ -23,7 +23,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /web_status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Catty Server
   introTitle: "Beza web server status page ⓛ ̫ ⓛ"
   introMessage: This status page monitors my web server and maybe more!.
@@ -37,7 +37,7 @@ status-website:
   css: ":root{--body-background-color:#000;--body-text-color:#00e7ff;--card-background-color:#000;--card-border-color:#00f3ff;--nav-background-color:#000;--nav-border-bottom-color:#00f3ff;--nav-current-border-bottom-color:#00f3ff;--up-border-left-color:#20ff00;--degraded-border-left-color:#ffef00;--down-border-left-color:#f00;--change-background-color:#000;--tag-up-background-color:#20ff00;--tag-degraded-background-color:#ffef00;--tag-down-background-color:#f00;--tag-color:#000;--down-background-color:#ff000b8a}"
   
 i18n:
-  footer: This page is [open source]($REPO), 🔌 Powered by [Upptime](https://upptime.js.org), Redesign with 💙 by [BezaTheCat](https://bezathecat.com/) ᗜ ̫ ᗜ
+  footer: 🐱 This page is [open source]($REPO), 🔌 Powered by [Upptime](https://upptime.js.org), Redesign with 💙 by [BezaTheCat](https://bezathecat.com/) ᗜ ̫ ᗜ
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
