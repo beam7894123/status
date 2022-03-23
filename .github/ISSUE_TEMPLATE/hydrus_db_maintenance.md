@@ -10,8 +10,8 @@ assignees: ''
 <!--
 start: 2022-00-00T00:00:00.000Z
 end: 2022-00-00T00:00:00.000Z
-expectedDown: Archive Server (Hydrus network api)
-expectedDegraded: Archive Server (Hydrus network api)
+expectedDown: archive-server-hydrus-network-api, 
+expectedDegraded: archive-server-hydrus-network-api, 
 -->
 
 Adding/Removing tag or file 
