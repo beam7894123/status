@@ -15,7 +15,8 @@ sites:
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 200
-
+  - name: Archive Booru (HyBooru)
+    url: $MAOW_VERY_SECRET_SITE_2
 
 
 status-website:
