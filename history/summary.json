@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1206,
-    "timeDay": 801,
-    "timeWeek": 1009,
+    "time": 1204,
+    "timeDay": 914,
+    "timeWeek": 1012,
     "timeMonth": 1025,
-    "timeYear": 1206,
+    "timeYear": 1204,
     "dailyMinutesDown": {
       "2022-03-29": 193
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.77%",
-    "time": 934,
-    "timeDay": 855,
-    "timeWeek": 867,
-    "timeMonth": 890,
-    "timeYear": 934,
+    "time": 932,
+    "timeDay": 847,
+    "timeWeek": 863,
+    "timeMonth": 889,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2022-04-25": 16,
       "2022-03-29": 192
@@ -46,16 +46,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "archive-server-hydrus-network-api",
     "status": "up",
-    "uptime": "97.14%",
+    "uptime": "97.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "98.45%",
-    "uptimeYear": "97.14%",
-    "time": 1848,
-    "timeDay": 1760,
-    "timeWeek": 1858,
-    "timeMonth": 1859,
-    "timeYear": 1848,
+    "uptimeYear": "97.16%",
+    "time": 1849,
+    "timeDay": 1806,
+    "timeWeek": 1862,
+    "timeMonth": 1860,
+    "timeYear": 1849,
     "dailyMinutesDown": {
       "2022-05-04": 5,
       "2022-04-21": 675,
@@ -63,5 +63,23 @@
       "2022-03-19": 1036,
       "2022-03-18": 445
     }
+  },
+  {
+    "name": "Archive Booru (HyBooru)",
+    "url": "$MAOW_VERY_SECRET_SITE_2",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "archive-booru-hy-booru",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1453,
+    "timeDay": 1453,
+    "timeWeek": 1453,
+    "timeMonth": 1453,
+    "timeYear": 1453,
+    "dailyMinutesDown": {}
   }
 ]
