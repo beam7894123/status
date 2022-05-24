@@ -71,17 +71,17 @@
     "url": "$MAOW_VERY_SECRET_SITE_2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "archive-booru-hy-booru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.51%",
-    "time": 1567,
-    "timeDay": 1186,
-    "timeWeek": 1417,
-    "timeMonth": 1567,
-    "timeYear": 1567,
+    "time": 1637,
+    "timeDay": 2188,
+    "timeWeek": 1565,
+    "timeMonth": 1637,
+    "timeYear": 1637,
     "dailyMinutesDown": {
       "2022-05-12": 96
     }
