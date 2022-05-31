@@ -45,7 +45,7 @@
     "url": "$MAOW_VERY_SECRET_SITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "archive-server-hydrus-network-api",
-    "status": "down",
+    "status": "up",
     "uptime": "97.76%",
     "uptimeDay": "91.79%",
     "uptimeWeek": "98.83%",
@@ -53,7 +53,7 @@
     "uptimeYear": "97.76%",
     "time": 1813,
     "timeDay": 1743,
-    "timeWeek": 1768,
+    "timeWeek": 1767,
     "timeMonth": 1788,
     "timeYear": 1813,
     "dailyMinutesDown": {
