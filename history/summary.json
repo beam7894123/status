@@ -76,7 +76,7 @@
     "url": "$MAOW_VERY_SECRET_SITE_1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "archive-server-hydrus-network-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.10%",
     "uptimeDay": "97.07%",
     "uptimeWeek": "99.00%",
