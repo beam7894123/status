@@ -6,9 +6,9 @@
     "slug": "main",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "97.02%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "97.93%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "96.46%",
+    "uptimeMonth": "97.95%",
     "uptimeYear": "99.09%",
     "time": 1430,
     "timeDay": 612,
@@ -16,7 +16,7 @@
     "timeMonth": 879,
     "timeYear": 1430,
     "dailyMinutesDown": {
-      "2022-10-28": 43,
+      "2022-10-28": 37,
       "2022-10-27": 24,
       "2022-10-26": 96,
       "2022-10-25": 53,
@@ -69,7 +69,8 @@
       "2022-06-20": 21,
       "2022-06-16": 38,
       "2022-06-15": 4,
-      "2022-06-06": 21
+      "2022-06-06": 21,
+      "2022-06-04": 17
     }
   },
   {
@@ -77,17 +78,17 @@
     "url": "https://thaitranslateby.bezathecat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/thaitranslateby.bezathecat.com.ico",
     "slug": "thai-translate-site",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "98.70%",
+    "status": "down",
+    "uptime": "98.99%",
+    "uptimeDay": "98.68%",
     "uptimeWeek": "97.76%",
     "uptimeMonth": "97.82%",
-    "uptimeYear": "98.98%",
-    "time": 1335,
-    "timeDay": 691,
-    "timeWeek": 649,
-    "timeMonth": 906,
-    "timeYear": 1335,
+    "uptimeYear": "98.99%",
+    "time": 1333,
+    "timeDay": 583,
+    "timeWeek": 638,
+    "timeMonth": 899,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2022-10-28": 19,
       "2022-10-27": 23,
@@ -139,8 +140,7 @@
       "2022-07-29": 47,
       "2022-07-27": 61,
       "2022-07-26": 45,
-      "2022-07-25": 15,
-      "2022-07-15": 17
+      "2022-07-25": 15
     }
   },
   {
