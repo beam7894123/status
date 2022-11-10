@@ -4,18 +4,19 @@
     "url": "https://bezathecat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bezathecat.com.ico",
     "slug": "main",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.12%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "97.70%",
-    "uptimeYear": "99.11%",
-    "time": 1345,
-    "timeDay": 689,
-    "timeWeek": 686,
-    "timeMonth": 819,
-    "timeYear": 1345,
+    "uptimeYear": "99.12%",
+    "time": 1343,
+    "timeDay": 555,
+    "timeWeek": 670,
+    "timeMonth": 814,
+    "timeYear": 1343,
     "dailyMinutesDown": {
+      "2022-11-10": 0,
       "2022-11-07": 16,
       "2022-11-03": 171,
       "2022-11-02": 21,
@@ -66,7 +67,7 @@
       "2022-07-15": 67,
       "2022-07-02": 106,
       "2022-07-01": 55,
-      "2022-06-30": 75
+      "2022-06-30": 40
     }
   },
   {
