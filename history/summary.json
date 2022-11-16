@@ -4,17 +4,17 @@
     "url": "https://bezathecat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bezathecat.com.ico",
     "slug": "main",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "94.95%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "94.94%",
     "uptimeWeek": "98.58%",
     "uptimeMonth": "97.51%",
-    "uptimeYear": "99.13%",
-    "time": 1331,
-    "timeDay": 597,
-    "timeWeek": 977,
-    "timeMonth": 738,
-    "timeYear": 1331,
+    "uptimeYear": "99.15%",
+    "time": 1330,
+    "timeDay": 570,
+    "timeWeek": 957,
+    "timeMonth": 736,
+    "timeYear": 1330,
     "dailyMinutesDown": {
       "2022-11-16": 44,
       "2022-11-15": 28,
@@ -68,7 +68,7 @@
       "2022-07-26": 45,
       "2022-07-25": 38,
       "2022-07-15": 67,
-      "2022-07-02": 106
+      "2022-07-02": 44
     }
   },
   {
@@ -149,7 +149,7 @@
     "slug": "archive-server-hydrus-network-api",
     "status": "up",
     "uptime": "96.08%",
-    "uptimeDay": "47.23%",
+    "uptimeDay": "48.92%",
     "uptimeWeek": "83.62%",
     "uptimeMonth": "89.66%",
     "uptimeYear": "96.08%",
@@ -248,7 +248,7 @@
     "time": 1695,
     "timeDay": 4177,
     "timeWeek": 2180,
-    "timeMonth": 1924,
+    "timeMonth": 1785,
     "timeYear": 1695,
     "dailyMinutesDown": {
       "2022-11-16": 360,
