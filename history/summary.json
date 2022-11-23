@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bezathecat.com.ico",
     "slug": "main",
     "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "98.24%",
-    "uptimeWeek": "96.75%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "99.14%",
+    "uptime": "99.13%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "99.13%",
     "time": 1315,
     "timeDay": 567,
-    "timeWeek": 1060,
+    "timeWeek": 1076,
     "timeMonth": 818,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2022-11-23": 26,
+      "2022-11-23": 19,
       "2022-11-22": 46,
       "2022-11-20": 86,
       "2022-11-19": 43,
@@ -71,7 +71,7 @@
       "2022-07-30": 49,
       "2022-07-29": 33,
       "2022-07-27": 61,
-      "2022-07-26": 25
+      "2022-07-26": 45
     }
   },
   {
@@ -150,18 +150,19 @@
     "url": "$MAOW_VERY_SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "archive-server-hydrus-network-api",
-    "status": "up",
-    "uptime": "95.71%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.85%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "82.62%",
     "uptimeMonth": "86.38%",
-    "uptimeYear": "95.71%",
+    "uptimeYear": "95.85%",
     "time": 1994,
     "timeDay": 1644,
     "timeWeek": 1719,
     "timeMonth": 1801,
     "timeYear": 1994,
     "dailyMinutesDown": {
+      "2022-11-23": 0,
       "2022-11-20": 1024,
       "2022-11-19": 626,
       "2022-11-16": 456,
@@ -233,8 +234,7 @@
       "2022-07-02": 67,
       "2022-07-01": 68,
       "2022-06-29": 26,
-      "2022-06-23": 38,
-      "2022-06-21": 496
+      "2022-06-23": 38
     }
   },
   {
