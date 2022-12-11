@@ -9,9 +9,11 @@ sites:
     
   - name: Thai Translate site
     url: https://thaitranslateby.bezathecat.com/
+    __dangerous__disable_verify_peer: true
     
   - name: Archive Server (Hydrus network api)
     url: $MAOW_VERY_SECRET_SITE_1
+    __dangerous__disable_verify_peer: true
  
   - name: Archive Booru (HyBooru)
     url: $MAOW_VERY_SECRET_SITE_2
