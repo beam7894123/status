@@ -9,9 +9,6 @@ sites:
     
   - name: Thai Translate site
     url: https://thaitranslateby.bezathecat.com/
-    __dangerous__disable_verify_peer: true
-        expectedStatusCodes:
-      - 200
     
   - name: Archive Server (Hydrus network api)
     url: $MAOW_VERY_SECRET_SITE_1
