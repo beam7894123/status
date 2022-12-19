@@ -13,10 +13,13 @@ sites:
     
   - name: Archive Server (Hydrus network api)
     url: $MAOW_VERY_SECRET_SITE_1
-    __dangerous__disable_verify_peer: true
+    # __dangerous__disable_verify_peer: true
  
   - name: Archive Booru (HyBooru)
     url: $MAOW_VERY_SECRET_SITE_2
+    
+  - name: Photo Prism
+    url: $MAOW_VERY_SECRET_SITE_3
 
 
 status-website:
