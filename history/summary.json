@@ -161,7 +161,7 @@
     "uptime": "95.92%",
     "uptimeDay": "98.79%",
     "uptimeWeek": "96.89%",
-    "uptimeMonth": "92.11%",
+    "uptimeMonth": "92.22%",
     "uptimeYear": "95.92%",
     "time": 1999,
     "timeDay": 2055,
@@ -304,19 +304,19 @@
     "url": "$MAOW_VERY_SECRET_SITE_3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "photo-prism",
-    "status": "down",
-    "uptime": "98.81%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.81%",
-    "time": 1181,
-    "timeDay": 1181,
-    "timeWeek": 1181,
-    "timeMonth": 1181,
-    "timeYear": 1181,
+    "status": "up",
+    "uptime": "36.86%",
+    "uptimeDay": "36.86%",
+    "uptimeWeek": "36.86%",
+    "uptimeMonth": "36.86%",
+    "uptimeYear": "36.86%",
+    "time": 1248,
+    "timeDay": 1248,
+    "timeWeek": 1248,
+    "timeMonth": 1248,
+    "timeYear": 1248,
     "dailyMinutesDown": {
-      "2022-12-19": 0
+      "2022-12-19": 48
     }
   }
 ]
