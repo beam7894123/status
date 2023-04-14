@@ -11,7 +11,10 @@ sites:
     url: https://thaitranslateby.bezathecat.com/
     # __dangerous__disable_verify_peer: true
     
-  - name: Archive Server (Hydrus network api)
+  - name: File Service (Nextcloud)
+    url: $MAOW_VERY_SECRET_SITE_4
+    
+  - name: Archive Service (Hydrus network api)
     url: $MAOW_VERY_SECRET_SITE_1
     # __dangerous__disable_verify_peer: true
  
