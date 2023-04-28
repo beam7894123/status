@@ -175,10 +175,10 @@
     "url": "$MAOW_VERY_SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "archive-service-hydrus-network-api",
-    "status": "up",
+    "status": "down",
     "uptime": "91.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "91.14%",
     "uptimeYear": "91.14%",
     "time": 2363,
@@ -187,6 +187,7 @@
     "timeMonth": 2363,
     "timeYear": 2363,
     "dailyMinutesDown": {
+      "2023-04-28": 1,
       "2023-04-20": 1222,
       "2023-04-19": 589
     }
@@ -198,9 +199,9 @@
     "slug": "archive-booru-hy-booru",
     "status": "up",
     "uptime": "98.17%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "93.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "93.90%",
     "uptimeYear": "98.17%",
     "time": 1702,
     "timeDay": 2098,
@@ -208,7 +209,6 @@
     "timeMonth": 1878,
     "timeYear": 1702,
     "dailyMinutesDown": {
-      "2023-04-28": 4,
       "2023-04-14": 17,
       "2023-04-04": 703,
       "2023-04-03": 1440,
