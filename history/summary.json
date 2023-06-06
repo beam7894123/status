@@ -4,19 +4,19 @@
     "url": "https://bezathecat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bezathecat.com.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "99.74%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 1120,
     "timeDay": 1008,
     "timeWeek": 1026,
     "timeMonth": 990,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2023-06-06": 26,
+      "2023-06-06": 28,
       "2022-12-19": 23,
       "2022-12-07": 24,
       "2022-12-06": 19,
@@ -76,7 +76,7 @@
       "2022-08-31": 39,
       "2022-08-30": 141,
       "2022-08-23": 21,
-      "2022-08-15": 54
+      "2022-08-15": 36
     }
   },
   {
@@ -84,12 +84,12 @@
     "url": "https://thaitranslateby.bezathecat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/thaitranslateby.bezathecat.com.ico",
     "slug": "thai-translate-site",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "98.27%",
+    "uptimeDay": "98.25%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "98.60%",
+    "uptimeYear": "98.61%",
     "time": 1056,
     "timeDay": 1023,
     "timeWeek": 1043,
@@ -149,8 +149,7 @@
       "2022-09-01": 57,
       "2022-08-31": 68,
       "2022-08-30": 98,
-      "2022-08-29": 77,
-      "2022-08-28": 39
+      "2022-08-29": 77
     }
   },
   {
