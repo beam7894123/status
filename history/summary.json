@@ -180,7 +180,7 @@
     "url": "$MAOW_VERY_SECRET_SITE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "archive-service-hydrus-network-api",
-    "status": "up",
+    "status": "down",
     "uptime": "95.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
