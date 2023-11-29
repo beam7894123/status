@@ -1,7 +1,7 @@
 url: $MAOW_VERY_SECRET_SITE_1
-status: down
-code: 530
-responseTime: 132
-lastUpdated: 2023-11-29T12:41:23.129Z
+status: up
+code: 200
+responseTime: 1449
+lastUpdated: 2023-11-29T12:57:15.509Z
 startTime: 2023-04-14T09:07:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
