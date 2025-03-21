@@ -4,10 +4,10 @@
     "url": "https://bezathecat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bezathecat.com.ico",
     "slug": "main",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 876,
@@ -16,6 +16,7 @@
     "timeMonth": 915,
     "timeYear": 882,
     "dailyMinutesDown": {
+      "2025-03-21": 2,
       "2024-04-17": 16
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://thaitranslateby.bezathecat.com/",
     "icon": "https://icons.duckduckgo.com/ip3/thaitranslateby.bezathecat.com.ico",
     "slug": "thai-translate-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -34,8 +35,9 @@
     "timeDay": 793,
     "timeWeek": 889,
     "timeMonth": 914,
-    "timeYear": 922,
+    "timeYear": 923,
     "dailyMinutesDown": {
+      "2025-03-21": 0,
       "2024-05-23": 37,
       "2024-04-02": 24
     }
